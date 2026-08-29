@@ -1,0 +1,114 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+  display: grid;
+  grid-row-gap: 1.5em;
+  margin: 0%;
+  padding: 1em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #1d4563;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #1b1b1d;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #1b1b1d;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #1b1b1d;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+li {
+  font-size: 0.875rem;
+  font-weight: 400;
+  color: #5a6677;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+header {
+  text-align: center;
+  place-items: center;
+  background-color: #f9f9fa;
+  display: grid;
+  grid-row-gap: 1em;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 1em;
+}
+
+.feature {
+  display: grid;
+  grid-row-gap: 1em;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.feature--hub {
+  background-color: rgb(255, 215, 215);
+}
+
+.feature--docs {
+  background-color: rgb(220, 255, 220);
+}
+
+.feature--storage {
+  background-color: rgb(225, 225, 255);
+}
+
+ul {
+  display: grid;
+  grid-row-gap: 0.5em;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 1em;
+  padding-left: 0%;
+}
+
+.button-primary {
+  background-color: #1d4563;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 0.25em;
+  padding: 0.5em;
+}
+
+.button-primary:hover {
+  background-color: #ffffff;
+  color: #1d4563;
+  box-shadow: 0 0 0 1px #1d4563;
+}
+
+.button-secondary {
+  color: #1d4563;
+  text-decoration: none;
+}
+
+.button-secondary:hover {
+  text-decoration: underline;
+}
