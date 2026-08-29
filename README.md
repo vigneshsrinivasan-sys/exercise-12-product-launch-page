@@ -1,6 +1,6 @@
 # Exercise 12 — Product Launch — SyncroBoard
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-12-product-launch-page/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-12-product-launch-page)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-12-product-launch-page/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ A product launch page combines a clear hierarchy, three feature components, grid
 ## Sequence
 
 **Exercise 12 of 27** · Independent practice
-
