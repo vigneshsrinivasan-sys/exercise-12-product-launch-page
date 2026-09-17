@@ -24,4 +24,4 @@ A product launch page combines a clear hierarchy, three feature components, grid
 
 ## Sequence
 
-**Exercise 12 of 27** · Independent practice
+**Exercise 12** · Independent practice
